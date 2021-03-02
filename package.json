@@ -18,9 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.753.0",
+    "concurrently": "^6.0.0",
     "if-env": "^1.0.4"
-  },
-  "devDependencies": {
-    "concurrently": "^5.1.0"
   }
 }
